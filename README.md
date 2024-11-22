@@ -8,17 +8,6 @@ The floating-point format in this implementation uses the following structure:
 |-------------|--------------|---------------------------|
 | 1 bit       | 9 bit        | 22 bit                    |
 
-## Features  
-- Supports the following operations:  
-  - Addition  
-  - Subtraction  
-  - Multiplication  
-  - Division  
-- Implements IEEE 754 guidelines, including:  
-  - Normalization and rounding  
-  - Handling of subnormal numbers  
-  - Exceptional cases like Infinity (`Inf`) and Not-a-Number (`NaN`)  
-
 ## Software  
 - **Logisim**: The entire FPA unit is designed and tested in Logisim, a powerful tool for building and simulating digital circuits.  
 
@@ -31,7 +20,7 @@ This project provides a hands-on approach to understanding and implementing cust
 Contributions are welcome! Feel free to submit issues, pull requests, or suggestions to enhance the functionality of this project.  
 
 ## License  
-This project is open-source and licensed under [Your License Here].  
+This project is open-source and licensed under [MIT License].  
 
 ---
 
