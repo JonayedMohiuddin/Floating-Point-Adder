@@ -20,7 +20,7 @@ This project provides a hands-on approach to understanding and implementing cust
 Contributions are welcome! Feel free to submit issues, pull requests, or suggestions to enhance the functionality of this project.  
 
 ## License  
-This project is open-source and licensed under [MIT License].  
+This project is open-source and licensed under [MIT License](https://github.com/JonayedMohiuddin/Floating-Point-Adder/blob/main/LICENSE).  
 
 ---
 
