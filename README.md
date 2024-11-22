@@ -4,9 +4,9 @@ This repository contains a custom **Floating-Point Arithmetic (FPA)** unit desig
 
 ## Bit Configuration  
 The floating-point format in this implementation uses the following structure:  
-- **Sign Bit**: 1 bit  
-- **Exponent**: 9 bits  
-- **Fraction (Mantissa)**: 22 bits  
+| **Sign**    | **Exponent** | ** FRACTION (MANTISSA) ** |  
+|-------------|--------------|---------------------------|
+| 1 bit       | 9 bit        | 22 bit                    |
 
 ## Features  
 - Supports the following operations:  
